@@ -1,0 +1,63 @@
+📌 Introdução ao GitHub
+
+Este repositório foi criado com o objetivo de apresentar um estudo sobre o GitHub, suas funcionalidades, importância e principais conceitos relacionados ao controle de versão e colaboração em projetos de software.
+
+---
+
+🚀 O que é o GitHub?
+
+O GitHub é uma plataforma de hospedagem de código-fonte baseada no sistema de controle de versão Git. Ele permite que desenvolvedores armazenem, gerenciem e colaborem em projetos de software de maneira organizada e segura.
+
+---
+
+⚙️ Principais Funcionalidades
+
+📂 Repositórios
+Espaços onde os projetos ficam armazenados, contendo arquivos, histórico de versões e documentação.
+
+🌿 Branches
+Permitem criar versões paralelas do projeto para desenvolver novas funcionalidades ou corrigir erros sem afetar a versão principal.
+
+🔁 Pull Requests
+Mecanismo para sugerir alterações no código, permitindo revisão e aprovação antes da integração.
+
+🐞 Issues
+Ferramenta para registrar problemas, sugestões de melhoria e tarefas do projeto.
+
+🤖 GitHub Actions
+Sistema de automação para integração contínua (CI) e entrega contínua (CD).
+
+🌐 GitHub Pages
+Permite hospedar sites estáticos diretamente a partir de um repositório.
+
+---
+
+🎯 Importância do GitHub
+
+- Facilita a colaboração entre desenvolvedores.
+- Mantém histórico completo de alterações.
+- Ajuda na organização de projetos.
+- Permite contribuir com projetos open source.
+- Funciona como portfólio profissional.
+- Integra-se com diversas ferramentas de desenvolvimento.
+
+---
+
+📝 Anotações Importantes
+
+- Git é o sistema de controle de versão.
+- GitHub é a plataforma que hospeda os repositórios.
+- Pode ser usado para projetos públicos e privados.
+- Muito utilizado em metodologias ágeis e DevOps.
+- Essencial para quem deseja atuar na área de tecnologia.
+
+---
+
+📚 Conclusão
+
+O GitHub é uma ferramenta essencial no desenvolvimento moderno de software, promovendo organização, colaboração e crescimento profissional. Seu domínio é fundamental para qualquer profissional da área de tecnologia.
+
+---
+
+✍️ Autor: Izequiel Silva 
+📅 Data: 02/2026
